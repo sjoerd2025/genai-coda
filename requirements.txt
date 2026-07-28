@@ -1,0 +1,7 @@
+# Requirements for running the ADK2 processor and tests
+# Add/extend these to your existing dependency list as appropriate.
+adk2>=0.0.0  # Replace with the real ADK2 package name/version
+aiohttp>=3.8
+prometheus_client>=0.14
+pytest>=7.0
+pytest-asyncio>=0.22
